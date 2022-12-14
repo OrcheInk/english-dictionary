@@ -3,8 +3,8 @@
 
 ## 配合欧陆（Eudic）词典进行使用
 
-![temp](https://cdn.jsdelivr.net/gh/RicardoLop/PicGoImage/img/20200804180403.webp)
+![Eudic](https://cdn.jsdelivr.net/gh/OrcheInk/image/img/202212141923753.webp)
 
 ## Coca美国当代语料库高频词汇（16000）
 
-![temp](https://cdn.jsdelivr.net/gh/RicardoLop/PicGoImage/img/20200804181055.webp)
+![Coca](https://cdn.jsdelivr.net/gh/OrcheInk/image/img/202212141924853.webp)
